@@ -1,0 +1,633 @@
+// line one
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+29          // use system call to print new line
+
+
+// line two
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '('
+40
+9           // print as char
+2
+1           // load '\\'
+92
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load '_'
+95
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load '`'
+96
+9           // print as char
+2
+1           // load ')'
+41
+9           // print as char
+2
+29          // use system call to print new line
+
+
+
+// third line
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load '/'
+ 47
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load ' '
+ 32
+ 9           // print as char
+ 2
+ 1           // load '''
+ 39
+ 9           // print as char
+ 2
+ 1           // load '/'
+ 47
+ 9           // print as char
+ 2
+29          // use system call to print new line
+
+
+
+
+// forth line
+
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '0'
+48
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '0'
+48
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '\\'
+92
+9           // print as char
+2
+29          // use system call to print new line
+
+
+
+// fifth line
+
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '\\'
+92
+9           // print as char
+2
+29          // use system call to print new line
+
+// line six
+
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '_'
+95
+9           // print as char
+2
+1           // load '_'
+95
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '\\'
+92
+9           // print as char
+2
+29          // use system call to print new line
+
+
+// line 7
+
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load ','
+44
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '_'
+95
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '\\'
+92
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '\\'
+92
+9           // print as char
+2
+1           // load '_'
+95
+9           // print as char
+2
+29          // use system call to print new line
+
+// line 8
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '`'
+96
+9           // print as char
+2
+1           // load '-'
+45
+9           // print as char
+2
+1           // load '.'
+46
+9           // print as char
+2
+1           // load '/'
+47
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ')'
+41
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '|'
+124
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load ' '
+32
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '^'
+94
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '^'
+94
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '^'
+94
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '^'
+94
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '^'
+94
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '^'
+94
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '^'
+94
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '\\'
+92
+9           // print as char
+2
+1           // load '~'
+126
+9           // print as char
+2
+1           // load '.'
+46
+9           // print as char
+2
+29          // use system call to print new line
+
+// end
+50
+
+.1000
+30 // return to user space
+
+.1500 // used to print new line
+1           // load '\\n'
+10
+9           // print as char
+2
+30
